@@ -15,3 +15,5 @@ Then this input is stored as a task in the tasks to do section of the app.
 Once the task is done it must be deleted using the delete button provided in the tasks to do section of the app.
 This app is done using the redux technique.
 This app can be used as a reminder app and as a to do list app as well
+
+APK AND DEMO - https://drive.google.com/drive/folders/12URUXTNpa6XaNcttQTgM3HoYV-Cfr2uM?usp=sharing 
