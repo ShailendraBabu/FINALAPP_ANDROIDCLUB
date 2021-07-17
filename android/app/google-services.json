@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361501657914",
+    "project_id": "mellonai-crm",
+    "storage_bucket": "mellonai-crm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361501657914:android:d87d53cf8c9e93b21bde03",
+        "android_client_info": {
+          "package_name": "com.mellonaicrm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361501657914-4tkh80vfj1qp1edt3cld1ptig9lucquh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXUwW-4zKXqeoWylI4PwWxZ6Oi1fnYd5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361501657914-4tkh80vfj1qp1edt3cld1ptig9lucquh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
